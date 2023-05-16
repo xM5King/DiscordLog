@@ -1,0 +1,11 @@
+دسكورد: https://discord.gg/st-d
+صانع السكربت: Mohammed or M5#0009
+
+طريقة تركيب السكربت:
+
+TriggerEvent("Smart-Logs:CreateLog", {
+    name = "name",
+    title = "title",
+    color = "green",
+    message = "message"
+})
