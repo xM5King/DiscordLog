@@ -1,9 +1,10 @@
 --[[
     ===============================
       Made By Mohammed or M5#0009
-            discord.gg/st-d
+        discord.gg/yBE3635T4p
     ===============================
 ]]
+
 DiscordLog = {}
 
 DiscordLog.Webhooks = {
@@ -31,6 +32,6 @@ return DiscordLog
 --[[
     ===============================
       Made By Mohammed or M5#0009
-            discord.gg/st-d
+        discord.gg/yBE3635T4p
     ===============================
 ]]
