@@ -1,4 +1,3 @@
-سكربت يسهل لك انشاء لوق في اي سكربت بسهولة
 # DiscordLog for FiveM
 
 ## Description
