@@ -26,7 +26,8 @@ TriggerEvent("Smart-Logs:CreateLog", {
 ```
 
 ## Created By
-
+```
 Name: Mohammed
 Discord: M5#0009
 Discord Link: https://discord.gg/yBE3635T4p
+```
