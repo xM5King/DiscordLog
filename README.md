@@ -9,4 +9,18 @@ DiscordLog is a basic resource for making send log to "Discord App"
 
 ### Client Side
 
-TriggerServerEvent(
+TriggerServerEvent("Smart-Logs:CreateLog", {
+    name = "name",
+    title = "title",
+    color = "green",
+    message = "message"
+})
+
+### Server Side
+
+TriggerEvent("Smart-Logs:CreateLog", {
+    name = "name",
+    title = "title",
+    color = "green",
+    message = "message"
+})
