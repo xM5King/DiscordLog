@@ -4,7 +4,7 @@
 
 DiscordLog is a basic resource for making send log to "Discord App"
 
-### Script
+### Description of the script
 https://youtu.be/Y2ija7_yhls
 
 ## Usage
